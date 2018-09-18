@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # -*- coding: utf-8 -*-
 from pyvi import ViTokenizer
 import re
@@ -9,7 +8,6 @@ __currency__ = {u'VND': u'việt nam đồng', u'USD': 'đô la mỹ'}
 __doluong__ = {u'km': u'ki lô mét', u'cm': u'xen ti mét', u'dm': u'đề xi mét', u'mm': u'mi li mét', u'nm':u'na nô mét'}
 __cannang__ = {u'kg': u'ki lô gam', u'g': 'gam'}
 
-specChar = u'@^$%*+-><='
 
 flatten = lambda *n: (e for a in n
 	for e in (flatten(*a) if isinstance(a, (tuple, list)) else (a,)))
@@ -69,7 +67,7 @@ class cleaners(object):
 			if len(text) == 1:
 				return __specChar__[text]
 			else:
-				for char in specChar:
+				for char in __specChar__:
 					if char in text:
 						text = text.replace(char,u" " + __specChar__[char] + u" ")
 				result = []
@@ -125,7 +123,7 @@ class cleaners(object):
 
 					if splitChar in ['.', ',']:
 						for i, map in enumerate(res):
-							if i < len(res):
+							if i < len(res) - 1:
 								output += self.num_to_text(map, 0) + u" phẩy "
 							else: 
 								output += self.num_to_text(map, 0)
@@ -137,7 +135,7 @@ class cleaners(object):
 						elif len(res) == 2:
 							if int(res[0]) <= 31 and int(res[1]) <= 12:
 								return u"ngày " + self.num_to_text(res[0], 0) + u" tháng " + self.num_to_text(res[1], 0)
-							elif int(res[0]) <= 12 and int(res[1]) % 1000 > 0:
+							elif int(res[0]) <= 12 and len(res[1]) == 4:
 								return u"tháng " + self.num_to_text(res[0], 0) + u" năm " + self.num_to_text(res[1], 0)
 							
 						for i, map in enumerate(res):
@@ -208,15 +206,11 @@ class cleaners(object):
 			return text
 
 if __name__ == "__main__":
-	text = u"Thu hồi thêm 730 triệu trong vụ cướp ngân hàng ở Khánh Hòa"
-	print("Input: [%s]" % (text))
-	cls = cleaners(text)
-	ret = cls.do()
-	print("Output: [%s]" % ret)
-	
-
-
-	
+	with open("input.txt", mode="r", encoding="utf-8") as f:
+		for line in f:
+			print("Input:\n[%s]" % (line))
+			ret = cleaners(line).do()
+			print("Output:\n[%s]" % ret)
 
 	
 
