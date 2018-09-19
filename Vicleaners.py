@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+# Cleaners for Vietnamese
+# A Module in TTS Synthesis
+# Dev by R.
+# Date : 09/2018
+
 from pyvi import ViTokenizer
 from rules import _spec_char, _currency, _d_unit, _w_unit, _number
 import re
@@ -210,8 +215,8 @@ class cleaners(object):
 
 		ws = self.split_word_sent(text)
 
-		print(ws)
-		
+		# print(ws)
+
 		for chars in ws:
 			if "_" in chars:
 				chars = chars.split("_")
