@@ -14,7 +14,7 @@ _currency 	= {	u'vnd': u'việt nam đồng', u'usd': 'đô la mỹ', u'eur': u'
 # Don vi do luong
 _d_unit 		= {	u'km': u'ki lô mét', u'cm': u'xen ti mét', u'dm': u'đề xi mét', u'mm': u'mi li mét', u'nm':u'na nô mét', 
 					u'm2' : u'mét vuông', u'm3' : u'mét khối',
-					u'hz' : u'héc', 
+					u'hz' : u'héc', u'm' : u'mét',
 					u'h': u'giờ', u'p': u'phút', u's': u'giây'
 					} 
 
