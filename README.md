@@ -1,6 +1,7 @@
 # Vicleaners: Cleaners for Vietnamese 
-* Normalize Vietnamese
+* Description: Vietnamese Text Normalizer
 * Author: Rin Le <rinle.it@gmail.com>
+* This is a module for Vietnamese for TTS synthesis.
 
 # Install required
 ```
