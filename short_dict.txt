@@ -1,0 +1,874 @@
+ABC, Công ty Truyền thông ABC
+ADB, Ngân hàng Phát triển châu Á
+ANĐT, an ninh điều tra
+ATGT, An toàn Giao thông
+ATM, Máy rút tiền tự động
+ATNĐ, áp thấp nhiệt đới
+ATTT, An toàn Trật tự
+ATTTGT, An toàn Trật tự Giao thông
+ATVSTP, an toàn vệ sinh thực phẩm
+BBCVT, Bộ Bưu chính Viễn thông
+BBT, Ban biên tập
+BC, Bán công
+BCĐ, Ban chỉ đạo
+BCĐĐMĐH, Ban chỉ đạo đổi mới đại học
+BCĐPCTNTƯ, Ban chỉ đạo phòng chống tham nhũng trung ương
+BCĐQG, Ban chỉ đạo Quốc gia
+BCĐT, Bưu chính điện tử
+BCĐTS, Ban chỉ đạo tuyển sinh
+BCHCD, Ban chỉ huy chiến dịch
+BCHQS, Bộ chỉ huy quân sự
+BCHTƯ, Ban chỉ huy trung ương
+BCHTW, Ban chỉ huy trung ương
+BCVT, Bưu chính Viễn thông
+BD, Bình Dương
+BĐ, Bóng đá
+BĐN, Bồ Đào Nha
+BĐS, bất động sản
+BĐVN, Bóng đá Việt Nam
+BGD, Bộ Giáo dục
+BGDĐT, Bộ Giáo dục và Đào tạo
+BGH, Ban giám hiệu
+BGK, Ban giám khảo
+BH, Bảo hiểm
+BHĐC, bán hàng đa cấp 
+BHL, Ban huấn luyện
+BHV, Ban huấn luyện
+BHXH, Bảo hiểm xã hội
+BHYT, Bảo hiểm y tế
+BIDV, Ngân hàng Đầu tư và Phát triển Việt Nam
+BK, Bách khoa
+BKS, Ban Kiểm soát
+BLHS, Bộ luật Hình sự
+BP, Biên phòng
+BQL, Ban quản lý
+BQLDA, Ban Quản lý dự án
+BSC, Công ty Chứng khoán Ngân hàng Đầu tư & Phát triển Việt Nam
+BT, bộ trưởng
+BTA, Hiệp định Thương mại Việt - Mỹ
+BTBNN, bảo trợ bệnh nhân nghèo
+BTC, Ban tổ chức
+BTS, Ban tuyển sinh
+BTV, Biên tập viên
+BTVH, Bổ túc Văn hóa
+BV, Bện viện
+BVĐK, Bệnh viện Đa khoa
+BVTV, Bảo vệ thực vật
+BX, Bến xe
+BXL, Bộ xử lý
+CAHN, Công an Hà Nội
+CAND, Công an Nhân dân
+CATP, Công an Thành phố
+CB, Cán bộ
+CBCC, cán bộ công chức
+CBCNV, Cán bộ công nhân viên
+CBQLGD, cán bộ quản lý giáo dục
+CCB, Cựu chiến binh
+CCHC, cải cách hành chính
+CĐ, Cao đẳng
+CĐDC, chất độc da cam 
+CĐSP, Cao đẳng Sư phạm
+CĐV, Cổ động viên
+CG, Nhóm các nhà tài trợ cho Việt Nam
+CHDC, Cộng hòa Dân chủ
+CHDCND, Cộng hòa Dân chủ Nhân dân
+CHLB, Cộng hòa Liên bang
+CHND, Cộng hòa Nhân dân
+CK, Chứng khoán
+CLB, Câu lạc bộ
+CMND, Chứng minh nhân dân
+CNCN, Chi nhánh Cấp nước
+CNH, Công nghiệp hóa
+CNKT, công nhân kỹ thuật
+CNQSDĐ, chứng nhận quyền sử dụng đất
+CNSH, Công nghệ sinh học
+CNTN, cử nhân tài năng 
+CNTT, Công nghệ thông tin
+CNV, Công nhân viên
+CNVC, Công nhân viên chức
+COPD, bệnh phổi tắc nghẽn mãn tính
+CP, Cổ phần
+CPE, Hợp đồng lao động đầu tiên
+CPH, Cổ phần hóa
+CPP, Đảng Nhân dân Cam pu chia
+CPSXTM, cổ phần Xây dựng sản xuất thương mại
+CPTD, cổ phiếu tự do
+CPTTT, chậm phát triển trí tuệ
+CPXD, cấp phép xây dựng
+CQĐT, Cơ quan điều tra
+CSCĐ, cảnh sát cơ động
+CSDC, cảnh sát dã chiến
+CSDL, Cơ sở Dữ liệu
+CSĐN, cảnh sát đặc nhiệm
+CSĐT, Cảnh sát điều tra
+CSĐTLX, cơ sở đào tạo lái xe
+CSĐTTP, Cảnh sát Điều tra tội phạm
+CSĐTTPMT, Cảnh sát điều tra tội phạm ma túy
+CSG, Cảng Sài Gòn
+CSGT, Cảnh sát giao thông
+CSHS, Cảnh sát Hình sự
+CSKH, Chăm sóc khách hàng
+CSKT, Cảnh sát kinh tế
+CSKV, Cảnh sát khu vực
+CSPCTPMT, Cục cảnh sát phòng chống tội phạm ma túy
+CSPK, công suất phản kháng
+CSQLHC, Cảnh sát Quản lý hành chính
+CSSD, Đảng Xã hội Dân chủ cánh tả
+CSSX, cơ sở sản xuất
+CSVC, Cơ sở vật chất
+CSVL, Cao su Việt - Lào 
+CSVN, Cộng sản Việt Nam
+CSXH, chính sách xã hội
+CT, Chính trị
+CTCC, Công trình Công cộng
+CTCH, chấn thương chỉnh hình
+CTCK, công ty chứng khoán
+CTCLQG, Chương trình chống lao quốc gia
+CTCN, Công ty Cấp nước
+CTCP, Công ty Cổ phần
+CTĐ, Chữ thập đỏ
+CTĐL, Công ty Điện lực
+CTN, chuyển tiền nhanh
+CTSN, Chấn thương sọ não
+CTTC, cho thuê tài chính 
+CTTH, chương trình truyền hình
+CTTNHH, Công ty Trách nhiệm Hữu hạn
+CTTT, chương trình tiên tiến
+CTV, cộng tác viên
+CTXH, Công tác xã hội 
+CV, Chuyên viên
+CVPM, Công viên phần mềm 
+CX, Cư xá
+DAGTĐT, dự án giao thông đô thị
+ĐATP, Đông Á - Thép Pomina 
+ĐB, Đồng bằng
+ĐBDT, đồng bào dân tộc
+ĐBP, Điện Biên Phủ
+ĐBQH, Đại biểu quốc hội
+ĐBSCL, Đồng bằng sông Cửu Long
+ĐBTN, Đại biểu thanh niên
+ĐBTSXB, đánh bắt thủy sản xa bờ
+ĐC, địa chỉ
+DCCH, Dân chủ Cộng hòa
+ĐCS, Đảng cộng sản
+ĐCSTQ, Đảng cộng sản Trung Quốc
+ĐCSVN, Đảng cộng sản Việt Nam
+DD, Dân dụng
+ĐD, Đại diện
+ĐĐ, Động đất
+DDVN, Duyên Dáng Việt Nam
+ĐH, Đại học
+ĐHBC, Đại học Bán công
+ĐHBK, Đại học Bách khoa
+ĐHBKHCM, Đại học Bách khoa Thành phố Hồ Chí Minh
+ĐHBKHN, Đại học Bách khoa Hà Nội
+ĐHBKTPHCM, Đại học Bách khoa Thành phố Hồ Chí Minh
+ĐHCĐ, đại hội cổ đông
+ĐHCLC, đại học chất lượng cao
+ĐHCN, đại học Công nghệ
+ĐHCT, Đại học Cần Thơ
+ĐHĐCQT, Đại học đẳng cấp quốc tế
+ĐHĐD, Đại học Đông Dương
+ĐHDL, Đại học Dân lập
+ĐHĐN, Đại học Đà nẵng
+ĐHGTVT, Đại học Giao thông Vận tải
+ĐHHB, Đại học Hồng Bàng
+ĐHHVN, Đại học Hàng hải Việt Nam
+ĐHKH, Đại học Khoa học
+ĐHKHTN, Đại học Khoa học tự nhiên
+ĐHKHTNHN, Đại học Khoa học tự nhiên Hà nội
+ĐHKHXH, Đại học Khoa học Xã hội
+ĐHKT, Đại học Kỹ thuật
+DHKTCN, Đại học Kỹ thuật Công nghệ
+ĐHKTCN, Đại học Kỹ thuật Công nghệ
+ĐHKTQD, Đại học Kinh tế Quốc dân
+ĐHN, Điện hạt nhân
+ĐHNT, Đại học Nha Trang
+ĐHQG, Đại học Quốc gia
+ĐHQGHN, Đại học Quốc gia Hà nội
+DHS, du học sinh
+ĐHSP, Đại học Sư phạm
+ĐK, Đăng ký
+ĐKDT, đăng ký dự thi
+ĐKĐT, điện kế điện tử
+ĐKHK, Đăng ký hộ khẩu
+ĐKKD, Đăng ký kinh doanh
+ĐKKH, đăng ký kết hôn
+ĐKVĐ, Đương kim vô địch
+ĐKVN, Điền kinh Việt Nam
+ĐKXT, đăng ký xét tuyển 
+DL, Du lịch
+ĐL, đo lường
+ĐLTP, điện kế điện tử 
+ĐMN, Đá Mỹ Nghệ
+DN, Doanh nghiệp
+ĐN, Đà Nẵng
+ĐNA, Đông nam á
+ĐNÁ, Đông Nam Á
+DNNN, Doanh nghiệp nhà nước
+DNT, Doanh nghiệp trẻ 
+DNTN, Doanh nghiệp Tư nhân
+DNVN, doanh nghiệp Việt Nam
+DNVVN, doanh nghiệp vừa và nhỏ
+ĐRL, điểm rèn luyện
+DS, dân số
+ĐS, đường sắt
+ĐSQ, đại sứ quán
+DT, dự tuyển
+ĐT, Đào tạo
+ĐTA, đồng tính ái
+ĐTB, điểm trung bình
+ĐTĐ, đái tháo đường
+ĐTDĐ, Điện thoại di động
+DTHT, dạy thêm học thêm
+ĐTHVN, Đài truyền hình Việt Nam
+ĐTLA, Đồng tính luyến ái
+ĐTLT, đào tạo liên thông
+ĐTNN, đầu tư nước ngoài
+DTQG, Đội tuyển quốc gia
+ĐTQG, Đội tuyển quốc gia
+ĐTTX, Đào tạo từ xa
+ĐTTXQM, Đào tạo từ xa Qua mạng
+ĐTV, điều tra viên
+ĐTVHD, động thực vật hoang dã
+ĐTVN, Đội tuyển Việt Nam
+ĐTXDCB, đầu tư xây dựng cơ bả
+DV, Dịch vụ
+ĐV, Đoàn viên
+ĐVHT, Đơn vị học trình
+DVTMCM, dịch vụ thương mại Cà Mau
+ĐVTN, đoàn viên thanh niên
+DVTT, Dịch vụ thông tin
+ĐVTTN, Đoàn viên thanh thiếu nhi
+ĐVƯT, đoàn viên ưu tú
+DVVL, dịch vụ việc làm
+EU, Liên minh châu Âu
+EVN, Công ty Viễn thông điện lực
+FIFA, Liên đoàn bóng đá thế giới
+GATT, Hiệp định chung về Thuế quan và Thương mại 
+GCMND, giấy chứng minh nhân dân
+GCN, Giấy chứng nhận
+GCNĐKKD, Giấy chứng nhận đăng ký kinh doanh
+GCNKQT, giấy chứng nhận kết quả thi 
+GCNQSD, giấy chứng nhận quyền sử dụng
+GCNQSDĐ, Giấy chứng nhận quyền sử dụng đất
+GCNQSDĐƠ, Giấy chứng nhận quyền sử dụng đất ở
+GCNQSH, Giấy chứng nhận quyền sở hữu
+GCNQSHN, Giấy chứng nhận quyền sở hữu nhà
+GCNQSHNƠ, Giấy chứng nhận quyền sở hữu nhà ở
+GCNSK, giấy chứng nhận sức khỏe
+GCQ, giấy chủ quyền
+GD, Giáo dục
+GĐ, Giám đốc
+GDĐH, giáo dục dục đại học
+GĐĐH, giám đốc điều hành
+GDĐT, Giáo dục & Đào tạo
+GDGT, giáo dục giới tính 
+GDNN, giáo dục nghề nghiệp
+GĐT, Gạch Đồng Tâm
+GĐTLA, Gạch Đồng Tâm Long An
+GĐTT, Giám đốc thông tin
+GDTX, Giáo dục thường xuyên 
+GHPGVN, Giáo hội Phật giáo Việt Nam
+GK, Giáo khoa
+GKQT, chứng nhận kết quả thi
+GL, Gia Lai
+GMD, gái mại dâm 
+GP, Giấy phép
+GPC, Công ty Dịch vụ Viễn thông
+GPLHĐB, giấy phép lưu hành đặc biệt
+GPLX, Giấy phép lái xe
+GPNK, phép nhập khẩu
+GPTM, giải phẫu thẩm mỹ
+GPXD, Giấy phép xây dựng
+GS, Giáo sư
+GSTS, Giáo sư Tiến sỹ
+GSTSKH, Giáo sư Tiến sỹ Khoa học
+GSTT, giám sát trọng tài
+GT, Giao thông
+GTCC, Giao thông Công chánh
+GTGT, Giá trị gia tăng
+GTMT, giãn tĩnh mạch tinh
+GTVT, Giao thông Vận tải
+GV, Giáo viên
+GVCN, Giáo viên chủ nhiệm
+GVG, giáo viên giỏi 
+GVMN, giáo viên mầm non
+GVTH, giáo viên tiểu học
+GVTN, giáo viên tình nguyện
+HAGL, Hoàng Anh Gia Lai
+HB, Học bổng
+HBV, vi rút viêm gan B
+HC, huy chương
+HCB, Huy chương bạc
+HCĐ, Huy chương đồng
+HCM, Hồ Chí Minh
+HCTC, học chế tín chỉ 
+HCTL, hội chợ triển lăm
+HCV, Huy chương vàng
+HCVL, Hội chợ việc làm 
+HD, Hướng dẫn
+HĐ, Hội đồng
+HĐBA, Hội đồng Bảo an Liên Hiệp Quốc
+HĐCD, Hội đồng chức danh
+HĐCDGS, Hội đồng chức danh giáo sư
+HĐCDGSCS, Hội đồng chức danh giáo sư cơ sở
+HĐCDGSN, Hội đồng Chức danh giáo sư ngành
+HĐCDGSNN, Hội đồng Chức danh giáo sư nhà nước
+HĐCT, hội đồng coi thi
+HĐĐB, Hội đồng Đền bù
+HĐĐG, Hội đồng định giá
+HĐH, Hệ điều hành
+HĐKT, hợp đồng kinh tế
+HĐLĐ, Hợp đồng lao động 
+HĐNDTP, Hội đồng nhân dân thành phố
+HĐNT, hội đồng nghệ thuật
+HĐQT, Hội đồng Quản trị
+HĐT, hội đồng thi 
+HĐTĐ, Hội đồng thẩm định
+HĐTS, Hội đồng tuyển sinh
+HĐTT, Hội đồng Trọng tài
+HDV, hướng dẫn viên
+HĐXX, Hội đồng xét xử
+HH, Hoa hậu
+HHTG, Hoa hậu Thế giới
+HHVN, Hoa hậu Việt Nam
+HK, Học kỳ
+HKDD, Hàng không dân dụng
+HKDDVN, Hàng không dân dụng Việt Nam
+HKHKT, hội khoa học kỹ thuật
+HKHKTVN, hội khoa học kỹ thuật Việt Nam
+HKTT, hộ khẩu thường trú
+HL, huấn luyện
+HLBĐ, Hoa Lâm Bình Định
+HLQG, Huấn luyện Quốc gia
+HLTTQG, Trung tâm huấn luyện thể thao quốc gia
+HLV, Huấn luyện viên
+HMNĐ, hiến máu nhân đạo
+HN, Hà Nội
+HND, Hội nông dân
+HNGĐ, hôn nhân gia đình
+HNHT, hội nghị hiệp thương 
+HNV, Hội Nhà văn
+HP, Học phần
+HPHN, Hòa Phát Hà Nội 
+HQ, Hàn quốc
+HQĐT, Hải quan điện tử
+HQHP, Hải quan Hải phòng
+HS, Học sinh
+HSBC, Học sinh bán công
+HSĐKDT, Hồ sơ đăng ký dự thi
+HSDPA, Truy nhập gói đường xuống tốc độ cao
+HSG, học sinh giỏi
+HSGQG, học sinh giỏi Quốc gia
+HSGQT, học sinh giỏi Quốc tế
+HSPT, học sinh phổ thông
+HSSV, Học sinh sinh viên
+HSV, Hội sinh viên
+HTCĐ, học tập cộng đồng
+HTXDVNN, Hợp tác xã dịch vụ nông nghiệp
+HUD, Tổng công ty Đầu tư phát triển nhà và đô thị 
+HV, Học viên
+HVANND, Học viện An ninh Nhân dân
+HVBCVT, Học viện Bưu chính Viễn thông
+HVCH, Học viên Cao học
+HVCNBCVT, Học viện Công nghệ Bưu chính Viễn thông
+HVKHQS, Học viện Khoa học Quân sự
+HVN, Honda Việt Nam
+HVNCL, Hàng Việt Nam chất lượng
+HVNCLC, Hàng Việt Nam chất lượng cao
+HVNH, Học viện Ngân hàng
+IMF, Quỹ tiền tệ quốc tế
+KBNN, Kho bạc Nhà nước
+KBS, Kênh truyền hình TW Hàn Quốc
+KCB, khám chữa bệnh
+KCN, Khu công nghiệp
+KCX, Khu chế xuất
+KDC, khu dân cư
+KĐCL, Kiểm định chất lượng
+KĐCLGD, Kiểm định chất lượng Giáo dục
+KDCN, Kiểu dáng công nghiệp
+KDDV, kinh doanh dịch vụ
+KDĐV, Kiểm dịch động vật
+KDHĐC, kinh doanh hàng đa cấp
+KDL, Khu du lịch
+KDN, Kinh doanh nhà
+KDNPN, Kinh doanh nhà Phú Nhuận
+KĐS, Khu đường sông
+KĐT, Khu đô thị
+KĐTM, Khu đô thị mới
+KĐTNTL, Đô thị Nam Thăng Long
+KH, Kế hoạch
+KHCN, Khoa học Công nghệ
+KHĐT, Kế hoạch Đầu tư
+KHKD, Kế hoạch kinh doanh
+KHKT, Khoa học Kỹ thuật
+KHKTHN, Khoa học Kỹ thuật Hạt nhân
+KHKTHS, Khoa học kỹ thuật hình sự
+KHKTNN, Khoa học kỹ thuật Nông nghiệp
+KHKTNNMN, Khoa học kỹ thuật Nông nghiệp miền Nam
+KHLS, Khoa học lịch sử
+KHTN, Khoa học Tự nhiên
+KHXH, Khoa học Xãn hội
+KK, Khuyến khích
+KKT, khu kinh tế
+KL, Kết luận
+KLĐT, kết luận điều tra
+KLQG, Kỷ lục quốc gia 
+KN, Khuyến nông
+KNTC, khiếu nại tố cáo
+KP, khu phố
+KS, Khách sạn
+KSND, Kiểm sát nhân dân
+KSNDTC, Kiểm sát Nhân dân Tối cao
+KST, ký sinh trùng
+KSV, kiểm sát viên
+KTM, Khu thương mại
+KTNN, Kinh tế nhà nước
+KTQD, kinh tế quốc dân
+KTQDHN, Kinh tế Quốc dân Hà Nội
+KTS, Kiến trúc sư
+KTTV, khí tượng thủy văn
+KTV, Kỹ thuật viên
+KTX, Ký túc xá
+KV, Khu vực
+KV, Khu vực 
+KV, Khu vực 
+KV, Khu vực 
+LB, Liên bang
+LCT, Luật Cạnh tranh
+LĐ, Lao động
+LĐBĐ, Liên đoàn bóng đá
+LĐBĐVN, Liên đoàn bóng đá Việt Nam
+LĐLĐ, Liên đoàn Lao động
+LDP, Đảng Dân chủ Tự do
+LĐTB, Lao động Thương binh
+LĐTBXH, Lao động Thương binh Xã hội
+LH, Liên hiệp
+LHP, Liên hoan phim
+LHPN, Liên hiệp Phụ nữ
+LHQ, Liên hiệp quốc
+LHS, lưu học sinh
+LHTN, Liên hiệp Thanh niên
+LHTNVN, Hội Liên hiệp Thanh niên Việt Nam
+LL, lực lượng
+LLLĐ, Lực lượng lao động
+LS, Luật sư
+LSQ, Lãnh sự quán
+LTQĐTD, lây truyền qua đường tình dục
+MB, Ngân hàng TMCP quân đội
+MBH, mũ bảo hiểm
+MHX, Mùa hè xanh
+MS, Mã số
+MT, Môi trường
+MTĐT, Máy tính điện tử
+MTTQ, Mặt trận tổ quốc
+MTTQVN, Mặt trận tổ quốc Việt Nam
+MTXT, Máy tính xách tay
+NC, Nghiên cứu
+NCC, nhà cung cấp
+NCKH, nghiên cứu khoa học
+NCL, ngoài công lập
+NCS, Nghiên cứu sinh
+NCTO, Hội đồng Các Tổ chức Dệt may Quốc gia Mỹ 
+NCTT, Nghiên cứu thị trường
+ND, Nhân dân
+NĐ, Nghị định
+NDC, Trung tâm dữ liệu Viễn thám Quốc gia
+NDT, Nhân dân tệ
+NĐT, Nhà đầu tư
+NĐVN, người đẹp Việt Nam
+NH, Ngân hàng
+NHCSXH, Ngân hàng Chính sách xã hội 
+NHCTCN, Ngân hàng Công thương Chi nhánh
+NHCTHP, Ngân hàng Công thương Hải Phòng
+NHCTVN, Ngân hàng Công thương Việt Nam
+NHĐA, Ngân hàng Đông Á
+NHĐÁ, Ngân hàng Đông Á
+NHĐT, Ngân hàng Đầu tư
+NHĐTPT, Ngân hàng Đầu tư phát triển
+NHK, Đài truyền hình quốc gia Nhật Bản
+NHNN, Ngân hàng nhà nước
+NHNNo, Ngân hàng Nông nghiệp và Phát triển Nông thôn
+NHNNPTNT, Ngân hàng Nông nghiệp và Phát triển Nông thôn
+NHNNVN, Ngân hàng Nhà nước Việt Nam
+NHNoVN, Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam
+NHNT, Ngân hàng Ngoại thương
+NHRC, Ủy ban Nhân quyền quốc gia
+NHTM, Ngân hàng Thương mại
+NHTMCP, ngân hàng thương mại cổ phần
+NHTMNN, ngân hàng thương mại nhà nước
+NHTMQD, ngân hàng thương mại quốc doanh
+NHTQ, Ngân hàng Trung ương Trung Quốc
+NHTSA, Cục an toàn xa lộ quốc gia Mỹ
+NHTƯ, Ngân hàng Trung ương 
+NHTW, Ngân hàng Trung ương 
+NK, Nhập khẩu
+NKBV, nhiễm khuẩn bệnh viện
+NKKN, Nam Kỳ Khởi Nghĩa
+NKNV, Năng khiếu Nghiệp vụ
+NKT, người khuyết tật
+NL, Năng lượng
+NLĐ, Người lao động
+NLMT, năng lượng mặt trời 
+NLS, nông lâm sản
+NLTT, năng lượng tái tạo
+NMĐ, nhà máy điện
+NN, Nhà nước
+NNCĐDC, Nạn nhân chất độc da cam
+NNPTNT, Nông nghiệp và Phát triển nông thôn
+NPP, Nhà phân phối
+NQ, Nghị quyết
+NQD, ngoài quốc doanh
+NS, Nghệ sỹ
+NSND, Nghệ sỹ nhân dân
+NSNN, ngân sách nhà nước 
+NST, nhiễm sắc thể
+NSƯT, Nghệ sỹ ưu tú
+NTBD, Nghệ thuật biểu diễn
+NTD, Nhà tuyển dụng
+NTK, nhà thiết kế
+NV, Nhân viên
+NV1, Nguyện vọng 1
+NV2, Nguyện vọng 2
+NV3, Nguyện vọng 3
+NVH, Nhà văn hóa
+NVHTN, Nhà Văn hóa Thanh niên 
+NXB, Nhà xuất bản
+NXBGD, Nhà xuất bản Giáo dục
+NXBKHXH, Nhà xuất bản Khoa học Xã hội
+NXBQĐND, Nhà xuất bản Quân đội Nhân dân
+NXBTN, Nhà xuất bản Tự nhiên
+NXBVHTT, Nhà xuất bản Văn hóa Nghệ thuật
+PCBL, phòng chống bão lụt
+PCBLTKCN, phòng chống bão lụt và tìm kiếm cứu nạn
+PCBTH, phổ cập bậc trung học
+PCC, Phòng công chứng
+PCCC, Phòng cháy chửa cháy
+PCGD, phổ cập giáo dục
+PCGDBTH, phổ cập giáo dục bậc trung học
+PCGDTH, phổ cập giáo dục tiểu học
+PCGDTHCS, phổ cập giáo dục trung học cơ sở
+PCLBMN, phòng chống lụt bão miền Nam
+PCLBTƯ, phòng chống lụt bão Trung ương
+PCLBTW, phòng chống lụt bão Trung ương
+PCT, Phó chủ tịch
+PCTH, phổ cập tiểu học
+PCTHCS, phổ cập trung học cơ sở
+PCTN, Phòng chống tệ nạn
+PCTNXH, Phòng chống tệ nạn xã hội
+PCTPCNC, Phòng chống tội phạm công nghệ cao
+PGĐ, Phó giám đốc
+PGHH, Phật giáo Hòa Hảo
+PGS, Phó Giáo sư
+PHHS, phụ huynh học sinh
+PL, Pháp luật
+PLO, Tổ chức Giải phóng Palestin
+PM, phần mềm
+PMU, Ban quản lý dự án
+PN, Phụ nữ
+PNTR, Quy chế Thương mại bình thường vĩnh viễn
+PP, phương pháp
+PS, Phóng sự
+PTCS, Phổ thông cơ sở
+PTN, phòng thí nghiệm
+PTNT, Phát triển Nông thôn
+PTSC, Công ty Dịch vụ Kỹ thuật dầu khí
+PTT, Phó thủ tướng
+PTTH, Phổ thông trung học
+PTTM, Phẫu thuật thẩm mỹ
+PTTT, Phát triển trẻ thơ
+PTV, Phát thanh viên
+PV, Phóng viên
+PY, Phú Yên
+QBLTD, Quĩ bảo lãnh tín dụng
+QC, Quy chế
+QCDCCS, quy chế dân chủ cơ sở
+QCGNHH, Quy chế ghi nhãn hàng hóa
+QCHQ, quan chức hải quan
+QCKDTXD, Quy chế kinh doanh thép xây dựng
+QCKT, quy chuẩn kĩ thuật
+QĐ, Quyết định
+QĐND, Quân đội nhân dân
+QG, Quốc gia
+QH, Quốc hội
+QHTD, Quan hệ tình dục
+QK, Quân khu
+QL, Quản lý
+QLD, Quản lý dược
+QLDA, Quản lý dự án
+QLĐT, Quản lý Đào tạo
+QLTT, Quản lý thị trường
+QN, Quảng Ninh
+QSD, quyền sử dụng
+QSDĐ, quyền sử dụng đất
+QTKD, Quản trị Kinh doanh
+RLC, rối loạn cương
+RLCD, rối loạn cương dương
+SARS, Hội chứng hô hấp cấp tính nặng
+SBD, Số báo danh
+SBS, Công ty Chứng khoán Ngân hàng Sài Gòn Thương Tín
+SD, sử dụng
+SDĐ, sử dụng đất
+SDĐNN, sử dụng đất nông nghiệp
+SĐH, sau đại học 
+SĐK, số đăng ký
+SĐNĐ, Sông Đà Nam Định
+SĐT, số điện thoại
+SĐTLA, Sơn Đồng Tâm Long An
+SG, Sài Gòn
+SGD, Sở giáo dục
+SGGP, Sài gòn giải phóng
+SGK, Sách giáo khoa
+SGT, Saigontourist 
+SGTT, Sài Gòn Tiếp Thị 
+SGTVT, Sở Giao thông Vận tải
+SH, Sinh hoạt
+SHNN, Sở hữu nhà nước
+SHTD, sinh hoạt tình dục
+SHTT, sở hữu trí tuệ 
+SJC, Công Ty Vàng Bạc Đá Quý TP Hồ Chí Minh
+SK, Sân khấu
+SKHCN, Sở Khoa học Công nghệ
+SKHCNMT, Sở Khoa học Công nghệ và Môi trường
+SKHĐT, Sở Kế hoạch và Đầu tư
+SKSS, sức khỏe sinh sản
+SLNA, Sông Lam Nghệ An
+SMĐH, Sao mai Điểm hẹn
+SN, Sinh năm
+SNN, sở Nông nghiệp
+SP, Sư phạm
+SPKT, Sư phạm kỹ thuật
+SS, Sĩ số
+SSA, Hiệp hội Tôm miền Nam nước Mỹ
+STB, Ngân hàng thương mại cổ phần Sài Gòn Thương Tín
+SV, Sinh viên
+SVĐ, Sân vận động
+SVĐV, Sao Vàng Đất Việt 
+SVHS, Sinh viên học sinh
+SV-HS, Sinh viên học sinh
+SVNCKH, Sinh viên nghiên cứu khoa học
+SVTN, Sinh viên tình nguyện
+SVVN, Sinh viên Việt Nam
+SX, Sản xuất
+SXH, sốt xuất huyết
+SYLL, Sơ yếu lý lịch
+TACN, thức ăn chăn nuôi
+TAND, Tòa án nhân dân
+TANDTC, Tòa án Nhân dân Tối cao
+TBD, Thái Bình Dương 
+TBKTSG, Thời báo kinh tế Sài Gòn 
+TBKTVN, Thời báo Kinh tế Việt Nam
+TBMMN, Tai biến mạch máu não
+TBT, Tổng biên tập
+TBTT, thuê bao trả trước
+TBXH, Thương binh Xã hội
+TC, Tài chính
+TCBVNTD, Tiêu chuẩn và bảo vệ người tiêu dùng
+TCCN, trung cấp chuyên nghiệp
+TCCS, tổ chức cơ sở
+TCDL, Tổng cục Du lịch 
+TCHL, tuyệt chủng hàng loạt
+TCHQ, Tổng cục hải quan
+TCKH, Tạp chí Khoa học
+TCKT, Tài chính - Kế toán
+TCMN, thủ công mỹ nghệ
+TCMR, tiêm chủng mở rộng 
+TCN, trung cấp nghề
+TCNN, Tài chính nhà nước
+TCS, Trịnh Công Sơn
+TCT, Tổng công ty
+TCTD, tổ chức tín dụng
+TCTT, trò chơi trực tuyến
+TCTTMSG, Tổng công ty Thương mại Sài Gòn
+TCVN, Tiêu chuẩn Việt Nam 
+TCVSG, Thảo Cầm Viên Sài Gòn
+TD, tình dục
+TĐ, từ điển
+TĐBKVN, Từ Điển Bách Khoa Việt Nam
+TĐC, tái định cư
+TDTT, Thể dục thể thao
+TDTTQG, Thể dục thể thao Quốc gia
+TDV, trình dược viên
+TFS, Hãng phim Truyền hình TPHCM
+TG, thế giới
+TGĐ, Tổng giám đốc
+TGPL, trợ giúp pháp lý
+TH, Truyền hình
+THCB, Trung học Chuyên ban
+THCN, Trung học chuyên nghiệp
+THCS, Trung học cơ sở
+THCSND, Thực hiện chính sách nhà đất
+THCSNĐ, Thực hiện chính sách nhà đất
+THDL, trung học dân lập
+THGT, tín hiệu giao thông
+THKTS, truyền hình kỹ thuật số
+THKTSMĐ, truyền hình kỹ thuật số mặt đất
+THPT, Trung học phổ thông
+THQG, thương hiệu quốc gia
+THS, Tín hiệu số
+THTT, truyền hình trực tiếp
+THVN, Truyền hình Việt Nam
+THX, Tân hoa xã
+TK, thiết kế
+TKCN, tìm kiếm cứu nạn
+TM, Thương mại
+TMCP, Thương mại cổ phần
+TMĐT, Thương mại Điện tử
+TMN, Thép Miền Nam 
+TMV, Công ty ôtô Toyota Việt Nam
+TN, Thanh niên
+TNCN, thu nhập cá nhân 
+TNCS, Thanh niên cộng sản
+TNĐH, tốt nghiệp đại học
+TNDN, Thu nhập doanh nghiệp
+TNĐT, Thoát nước Đô thị
+TNGT, Tai nạn giao thông
+TNHC, Trinh nữ hoàng cung
+TNHH, Trách nhiệm hữu hạn
+TNK, thuế nhập khẩu
+TNKQ, trắc nghiệm khách quan
+TNLN, thanh niên lập nghiệp
+TNMT, Tài nguyên Môi trường
+TNND, Tiếng nói Nhân dân
+TNNT, thanh niên nông thôn
+TNO, Thanh niên Online
+TNS, tu nghiệp sinh
+TNSV, thanh niên sinh viên
+TNSVVN, thanh niên sinh viên Việt Nam
+TNT, Tình Nguyện Trẻ
+TNTN, thanh niên tình nguyện
+TNTP, Thiếu niên Tiền phong
+TNV, Tình nguyện viên
+TNVN, Thanh niên Việt Nam
+TNXH, tệ nạn xã hội
+TNXK, Thanh niên xung kích
+TNXP, Thanh niên xung phong
+TPCĐ, trái phiếu chuyển đổi
+TPCN, Thực phẩm chức năng
+TPCT, Thành phố Cần Thơ
+TPHCM, Thành phố Hồ Chí Minh
+TPO, Tiên phong Online
+TQ, Trung Quốc
+TSDĐ, tiền sử dụng đất
+TSKH, Tiến sỹ Khoa học
+TSN, Tân Sơn Nhất
+TT, Trung tâm
+TTBĐS, thị trường bất động sản
+TTBDVH, Trung tâm bồi dưỡng văn hóa
+TTBDVHNG, Trung tâm bồi dưỡng văn hóa ngoài giờ
+TTBVQTG, Trung tâm bảo vệ quyền tác giả
+TTBYT, Trang thiết bị y tế
+TTCK, Thị trường Chứng khoán
+TTCN, Trung tâm cai nghiện
+TTCP, Thủ tướng Chính phủ
+TTCT, Thể Thao Cuối Tuần
+TTĐB, thuế Tiêu thụ đặc biệt
+TTDD, Trung tâm Dinh dưỡng
+TTĐM, Trung tâm Điện máy
+TTDV, Trung tâm Dịch vụ
+TTDVVL, Trung tâm Dịch vụ việc làm
+TTg, Thủ tướng
+TTGDCK, Trung tâm giao dich chứng khoán
+TTGDTX, Trung tâm Giáo dục thường xuyên
+TTGT, Trật tự Giao thông
+TTH, Thừa Thiên Huế
+TTHTCĐ, Trung tâm học tập cộng đồng
+TTHTSV, trung tâm hỗ trợ sinh viên
+TTK, tổng thư ký
+TTLT, Thông tư liên tịch
+TTN, thanh thiếu niên
+TTNN, Trung tâm Ngoại Ngữ
+TTO, Tuổi trẻ online
+TTQLKT, trật tự quản lý kinh tế
+TTTH, Trung tâm Tin học
+TTTM, trung tâm thương mại 
+TTTON, thụ tinh trong ống nghiệm
+TTTTN, trí thức trẻ tình nguyện
+TTVGT, trật tự viên giao thông
+TTVH, Trung tâm Văn hóa
+TTVN, Thể thao Việt Nam
+TTXH, trật tự xã hội
+TTXVN, Thông tấn xã Việt Nam
+TTYT, Trung tâm y tế
+TTYTDP, Trung tâm Y tế dự phòng
+TV, Ti vi
+TVHK, tiếp viên hàng không
+TVN, Than Việt Nam
+TVQH, Thường vụ Quốc hội
+TVV, tư vấn viên
+TW, Trung ương
+TX, Thị xã
+UBCKNN, Ủy ban Chứng khoán Nhà nước
+UBKT, Uỷ ban Kiểm tra
+UBMTTQ, Ủy ban Mạt trận Tổ quốc
+UBMTTQVN, Ủy ban Mặt trận Tổ quốc Việt Nam
+UBNDTP, Ủy ban Nhân dan Thành phố
+UBTDTT, Ủy ban Thể dục Thể thao
+UBTVQH, Ủy ban thường vụ Quốc hội 
+ƯCV, ứng cử viên
+UNDP, Chương trình Phát triển Liên Hợp Quốc
+UNESCO, Khoa học và Văn hóa của Liên hiệp quốc
+UNFPA, Quỹ dân số Liên Hợp Quốc
+UNHCR, Văn phòng Cao ủy Liên hợp quốc về người tỵ nạn
+UNICEF, Quỹ Nhi đồng Liên hợp quốc
+UNIFIL, Lực lượng gìn giữ hòa bình của LHQ tại miền nam Libăng
+UT, ung thư
+UV, Ủy viên
+UVBCH, Ủy viên ban chấp hành
+UVBCT, Ủy viên Bộ chính trị
+VCB, Ngân hàng ngoại thương Việt Nam
+VCK, Vòng chung kết
+VD, ví dụ
+VĐ, Vô địch
+VDC, Công ty Điện toán và Truyền số liệu
+VĐQG, Vô địch Quốc gia
+VĐV, Vận động viên
+VĐVQG, Vận động viên Quốc gia
+VFF, Liên đoàn bóng đá Việt Nam
+VH, Văn hóa
+VHGDTNTN, Văn hóa Giáo dục Thanh niên Thiếu niên
+VHGDTTNNĐ, Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng
+VHNT, Văn học Nghệ thuật
+VHTT, Văn hóa Thông tin
+VKS, Viện Kiểm sát
+VKSND, Viện Kiểm sát Nhân dân
+VKSNDTC, Viện Kiểm sát Nhân dân Tối cao
+VL, Vật lý
+VLTK, Võ Lâm Truyền Kỳ
+VLXD, Vật liệu xây dựng
+VN, Việt Nam
+VNCC, Tổng Công ty Xi măng Việt Nam
+VNM, Vinamilk 
+VP, Văn phòng
+VPCP, Văn phòng chính phủ
+VPĐD, Văn phòng đại diện
+VQG, Vườn Quốc gia
+VS, Vệ sinh
+VSP, Xí nghiệp Liên doanh Vietsovpetro
+VT, Viên thông
+VTV, Đài truyền hình Việt Nam
+VYSA, Hội Thanh niên Sinh viên Việt Nam tại Nhật Bản
+WB, Ngân hàng thế giới
+WTO, Tổ chức Thương mại thế giới
+XD, Xây dựng
+XDCB, xây dựng cơ bản
+XĐGN, Xoá đói giảm nghèo
+XDHK, Xăng dầu hàng không
+XH, Xã hội
+XHCN, Xã hội chủ nghĩa
+XHH, xã hội hóa
+XK, Xuất khẩu
+XKLĐ, xuất khẩu lao động
+XN, Xí nghiệp
+XNK, Xuất nhập khẩu
+XSKT, xổ số kiến thiết
+XTTM, Xúc tiến thương mại
+XX, Xét xử
+YKVN, Y khoa Việt Nam
+YTDP, Y tế Dự phòng
+YTế, Y tế
+PC14, Phòng Cảnh sát điều tra tội phạm về trật tự xã hội
+PC15, Phòng Cảnh sát điều tra tội phạm về quản lý kinh tế và chức vụ
+PC16, Phòng Cảnh sát điều tra
+PC17, Phòng cảnh sát phòng chống tội phạm ma tuý

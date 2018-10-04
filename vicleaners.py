@@ -5,7 +5,7 @@
 # Date : 09/2018
 
 from pyvi import ViTokenizer
-from rules import _spec_char, _currency, _d_unit, _w_unit, _number
+from rules import _spec_char, _currency, _d_unit, _w_unit, _number, short_dict
 import re
 
 flatten = lambda *n: (e for a in n
@@ -180,6 +180,39 @@ def _unit_(m):
 	text = re.sub(_string_ascii_re, __unit, text)
 	return text
 
+def _short_dict(text):
+	d = short_dict()
+	try:
+		return d[text]
+	except:
+		return text
+
+def _normalize_numbers(text):
+	text = re.sub(_numbers_re, _remove_commmas, text)
+	text = re.sub(_fraction_re, _fraction_, text)
+	text = re.sub(_fnumber_re, _fnumber_, text)
+	text = re.sub(_number_re, _number_, text)
+	return text
+
+def _specChar(text):
+	try:
+		if len(text) == 1:
+			return _spec_char[text]
+		else:
+			for char in _spec_char:
+				if char in text:
+					text = text.replace(char,u" " + _spec_char[char] + u" ")
+			result = []
+			for char in text.split():
+				char = _normalize_numbers(char)
+				char = c_unit(char)
+				char = d_unit(char)
+				char = w_unit(char)
+				result.append(char)
+			return cleaners.join_str(result)
+	except:
+		return text
+
 class cleaners(object):
 	def __init__(self, text=None):
 		if text == None:
@@ -202,13 +235,6 @@ class cleaners(object):
 	def lower(text):
 		return str(text).lower()
 	
-	def normalize_numbers(self, text):
-		text = re.sub(_numbers_re, _remove_commmas, text)
-		text = re.sub(_fraction_re, _fraction_, text)
-		text = re.sub(_fnumber_re, _fnumber_, text)
-		text = re.sub(_number_re, _number_, text)
-		return text
-	
 	def do(self):
 		text = cleaners.collapse_whitespace(self.str)
 		text = cleaners.lower(text)
@@ -224,40 +250,23 @@ class cleaners(object):
 				chars = [chars]
 
 			for char in chars:
-				char = self.normalize_numbers(char)
-				char = self.specChar(char)
+				char = _short_dict(char)
+				char = _normalize_numbers(char)
+				char = _specChar(char)
 				char = c_unit(char)
 				char = d_unit(char)
 				char = w_unit(char)
 				self.result.append(char)
 
-		return self.join_str(flatten(self.result))
+		return cleaners.join_str(flatten(self.result))
 
 	def strip(self):
 		self.str = self.str.strip()
 		return self.str
 
-	def join_str(self, list_str):
+	@staticmethod
+	def join_str(list_str):
 		return " ".join(list_str)
-
-	def specChar(self, text):
-		try:
-			if len(text) == 1:
-				return _spec_char[text]
-			else:
-				for char in _spec_char:
-					if char in text:
-						text = text.replace(char,u" " + _spec_char[char] + u" ")
-				result = []
-				for char in text.split():
-					char = self.normalize_numbers(char)
-					char = c_unit(char)
-					char = d_unit(char)
-					char = w_unit(char)
-					result.append(char)
-				return self.join_str(result)
-		except:
-			return text
 
 if __name__ == "__main__":
 	with open("input.txt", mode="r", encoding="utf-8") as f:

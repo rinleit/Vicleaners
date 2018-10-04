@@ -22,5 +22,11 @@ _d_unit 		= {	u'km': u'ki lô mét', u'cm': u'xen ti mét', u'dm': u'đề xi m�
 # Don vi can nang
 _w_unit 		= {u'kg': u'ki lô gam', u'g': 'gam'}
 
-
-_stop_word = '-.,:!?\"()'
+# Tu dien viet tat
+def short_dict():
+	d = {}
+	with open("short_dict.txt") as f:
+		for line in f:
+			(key, val) = line.split(",")
+			d[str(key).lower()] = str(val).lower()
+	return d 

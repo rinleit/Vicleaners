@@ -8,5 +8,5 @@ def main(text):
 
 
 if __name__ == '__main__':
-    txt = '10cm 1km 1hz 1g 10 g 10 kg'
+    txt = 'csgt cscđ trường thpt hà Trung pc14'
     main(txt)
