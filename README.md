@@ -26,3 +26,7 @@ Join test case into input.txt file and typing...
 1. chiều ngày mười tám tháng chín - ngày mười chín tháng chín năm hai nghìn không trăm mười tám , một mét bằng một trăm xen ti mét , năm phẩy ba tỷ năm triệu việt nam đồng , một tỷ năm trăm năm mươi lăm triệu bốn trăm tám mươi bảy nghìn tám trăm hai mươi mốt.
 2. chiến dịch của microsoft và qualcomm để các chip snapdragon ( nhân arm ) chạy trên nền tảng windows mười hầu như đều chưa mang đến kết quả cụ thể nào.
 ``` 
+
+# Reference
+* Danh sách viết tắt trong tiếng Việt
+05/10/2018 - [Created by Hung Ngo](https://sites.google.com/site/ngo2uochung/research/dsviettat-tieng-viet)
