@@ -30,3 +30,4 @@ Join test case into input.txt file and typing...
 # Reference
 * Danh sách viết tắt trong tiếng Việt
 05/10/2018 - [Created by Hung Ngo](https://sites.google.com/site/ngo2uochung/research/dsviettat-tieng-viet)
+* pyvi [github project](https://github.com/trungtv/pyvi)
